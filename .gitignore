@@ -5,7 +5,5 @@
 /data/
 /checkpoints/
 /scripts/
-/android/
 
-*.zip
 !*.py
