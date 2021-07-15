@@ -1,0 +1,11 @@
+/scripts/coco/
+/scripts/voc/
+/coco/
+/mAP/
+/data/
+/checkpoints/
+/scripts/
+/android/
+
+*.zip
+!*.py
